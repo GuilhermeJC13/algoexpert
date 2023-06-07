@@ -1,4 +1,4 @@
-# TWO NUMBER SUM
+# SORTED SQUARED ARRAY
 
   ## Prompt
   Write a function that takes in a non-empty array of integers that are sorted
