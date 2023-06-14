@@ -1,4 +1,4 @@
-# TWO NUMBER SUM
+# VALIDATE SEQUENCE
 
   ## Prompt
   Given two non-empty arrays of integers, write a function that determines
