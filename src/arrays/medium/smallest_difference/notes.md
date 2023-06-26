@@ -21,7 +21,7 @@
   Time Complexity: O(nmlogn(nm))
 
   ### Solution 2
-  This is the solution from algoexpert, he initially sorted both arrays and the went in a while loop, inside of it, he would compare the values from the value of the 2 arrays, and he took the absolute difference from them, if the first element was smaller, he would take the next element in the next repetition, and then he would compare the difference with the min difference, taking the one with the smallest difference
+  This is the solution from algoexpert, he initially sorted both arrays and then went in a while loop, inside of it, he would compare the values from the value of the 2 arrays, and he took the absolute difference from them, if the first element was smaller, he would take the next element in the next repetition, and then he would compare the difference with the min difference, taking the one with the smallest difference
 
 
   Time Complexity: O(nlog(n) + mlog(m))
