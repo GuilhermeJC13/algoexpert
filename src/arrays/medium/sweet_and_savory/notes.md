@@ -25,8 +25,6 @@
     should return [O, O]. The returned array should be sorted,
     meaning the sweet dish should always come first.
   
-  
-  
 
   ## Solutions
   ### Solution 1
